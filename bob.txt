@@ -1,6 +1,6 @@
 it's bob working space
 here we change bob
 edit in branch
-git ====+
+git +==+
 
 git push
